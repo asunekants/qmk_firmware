@@ -16,6 +16,9 @@
         "cols": ["B6", "B2", "B3", "B1"],
         "rows": ["D4", "C6", "D7", "E6", "B4", "B5"]
     },
+    "indicators": {
+        "num_lock": "F5",
+    },
     "url": "",
     "usb": {
         "device_version": "1.0.0",
